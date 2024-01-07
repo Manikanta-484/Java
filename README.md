@@ -9,10 +9,10 @@ Welcome to my Java Projects Repository! This collection includes small Java proj
    - **Usage:**
       ```bash
       # Clone the repository
-      git clone https://github.com/your-username/your-repository.git
+      git clone https://github.com/Manikanta-484/Java.git
 
       # Navigate to the project directory
-      cd your-repository
+      cd Java
 
       # Compile and run the Abstract Challenge project
       javac AbstractChallenge.java
@@ -26,26 +26,27 @@ Welcome to my Java Projects Repository! This collection includes small Java proj
    - **Usage:**
       ```bash
       # Clone the repository
-      git clone https://github.com/your-username/your-repository.git
+      git clone https://github.com/Manikanta-484/Java.git
 
       # Navigate to the project directory
-      cd your-repository
+      cd Java
 
       # Compile and run the Arrays project
       javac ArraysProject.java
       java ArraysProject
       ```
-   - **Link to Code:** [Arrays.java](Arrays.java)
+   - **Link to Code:** [Arrays.java](https://github.com/Manikanta-484/Java/tree/main/Arrays)
+   - **Link to Code:** [multi-dimendional-Arrays.java](https://github.com/Manikanta-484/Java/tree/main/Multi-dimensional-Arrays/MultipleArrays)
 
 3. **Composition**
    - **Description:** Learn about the principles of composition in object-oriented programming. This project provides examples to illustrate how composition is implemented in Java.
    - **Usage:**
       ```bash
       # Clone the repository
-      git clone https://github.com/your-username/your-repository.git
+      git clone https://github.com/Manikanta-484/Java.git
 
       # Navigate to the project directory
-      cd your-repository
+      cd Java
 
       # Compile and run the Composition project
       javac CompositionProject.java
@@ -58,10 +59,10 @@ Welcome to my Java Projects Repository! This collection includes small Java proj
    - **Usage:**
       ```bash
       # Clone the repository
-      git clone https://github.com/your-username/your-repository.git
+      git clone https://github.com/Manikanta-484/Java.git
 
       # Navigate to the project directory
-      cd your-repository
+      cd Java
 
       # Compile and run the Encapsulation Challenge project
       javac EncapsulationChallenge.java
@@ -74,10 +75,10 @@ Welcome to my Java Projects Repository! This collection includes small Java proj
    - **Usage:**
       ```bash
       # Clone the repository
-      git clone https://github.com/your-username/your-repository.git
+      git clone https://github.com/Manikanta-484/Java.git
 
       # Navigate to the project directory
-      cd your-repository
+      cd Java
 
       # Compile and run the Generics Exploration project
       javac GenericsExploration.java
