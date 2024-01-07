@@ -37,6 +37,7 @@ Welcome to my Java Projects Repository! This collection includes small Java proj
       ```
    - **Link to Code:** [Arrays.java](https://github.com/Manikanta-484/Java/tree/main/Arrays)
    - **Link to Code:** [multi-dimendional-Arrays.java](https://github.com/Manikanta-484/Java/tree/main/Multi-dimensional-Arrays/MultipleArrays)
+   - **Link to Code:** [MultipleArrays.java](https://github.com/Manikanta-484/Java/tree/main/MultipleArrays)
 
 3. **Composition**
    - **Description:** Learn about the principles of composition in object-oriented programming. This project provides examples to illustrate how composition is implemented in Java.
@@ -52,7 +53,7 @@ Welcome to my Java Projects Repository! This collection includes small Java proj
       javac CompositionProject.java
       java CompositionProject
       ```
-   - **Link to Code:** [Composition.java](Composition.java)
+   - **Link to Code:** [Composition.java](https://github.com/Manikanta-484/Java/tree/main/Composition/computerFactory)
 
 4. **Encapsulation Challenge**
    - **Description:** This project involves challenges related to encapsulation in Java. Explore how encapsulation contributes to code organization and security.
@@ -68,7 +69,7 @@ Welcome to my Java Projects Repository! This collection includes small Java proj
       javac EncapsulationChallenge.java
       java EncapsulationChallenge
       ```
-   - **Link to Code:** [Encapsulation.java](Encapsulation.java)
+   - **Link to Code:** [Encapsulation.java](https://github.com/Manikanta-484/Java/tree/main/Encapsulation)
 
 5. **Generics Exploration**
    - **Description:** Delve into the world of generics in Java. Understand how to write generic classes and methods to create more flexible and reusable code.
@@ -81,10 +82,10 @@ Welcome to my Java Projects Repository! This collection includes small Java proj
       cd Java
 
       # Compile and run the Generics Exploration project
-      javac GenericsExploration.java
-      java GenericsExploration
+      javac Generics.java
+      java Generics
       ```
-   - **Link to Code:** [Generics.java](Genericsn.java)
+   - **Link to Code:** [Genericsn.java](https://github.com/Manikanta-484/Java/tree/main/Generics)
 
 
 
