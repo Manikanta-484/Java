@@ -19,7 +19,7 @@ Welcome to my Java Projects Repository! This collection includes small Java proj
       java AbstractChallenge
       ```
       
-   - **Link to Code:** [AbstractChallenge.java](AbstractChallenge.java)
+   - **Link to Code:** [AbstractChallenge.java](https://github.com/Manikanta-484/Java/tree/main/AbstractChallenge)
 
 2. **Arrays**
    - **Description:** Explore various concepts related to arrays in Java, including array manipulation, iteration, and common challenges associated with arrays.
